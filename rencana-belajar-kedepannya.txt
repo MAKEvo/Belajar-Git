@@ -3,3 +3,4 @@ Rencana Belajar
 - Belajar Framework PHP Codeigniter
 - Belajar Framework PHP Laravel
 - Belajar Framework Javascript
+  -vue js
