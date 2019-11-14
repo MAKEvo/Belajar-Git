@@ -1,0 +1,5 @@
+Rencana Belajar
+- Belajar PHP MVC
+- Belajar Framework PHP Codeigniter
+- Belajar Framework PHP Laravel
+- Belajar Framework Javascript
