@@ -1,7 +1,3 @@
 Resolusi Saya
-- Belajar HTML CSS
-- Belajar Javascript Dasar
-- Belajar Bootstrap
-- Belajar php dasar
 - Belajar Javascript Lanjutan
 - Belajar PHP OOP
